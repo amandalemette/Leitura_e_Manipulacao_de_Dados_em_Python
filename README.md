@@ -13,6 +13,6 @@ Acesso ao vídeo da aula: https://youtu.be/r2moJkyQU1s
 
 - A base de dados "World Population by Year" foi retirada do Kaggle: https://www.kaggle.com/sansuthi/world-population-by-year
 
-## Aula 2: Leitura de Dados xlsx, xls, .dat, .txt
+## Aula 2: Leitura de Dados .dat e .txt
 
 
