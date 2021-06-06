@@ -15,4 +15,7 @@ Acesso ao vídeo da aula: https://youtu.be/r2moJkyQU1s
 
 ## Aula 2: Leitura de Dados .txt e .dat
 
+<h2 id="aula2"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula2">Material da Aula 2</a></h2>
+
+
 
