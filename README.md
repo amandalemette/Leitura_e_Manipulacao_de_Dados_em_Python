@@ -17,5 +17,5 @@ Acesso ao vídeo da aula: https://youtu.be/r2moJkyQU1s
 
 <h2 id="aula2"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula2">Material da Aula 2</a></h2>
 
-
+- A base de dados "coloncancer.txt" foi retirada de: http://courses.washington.edu/b517/Datasets/datasets.html
 
