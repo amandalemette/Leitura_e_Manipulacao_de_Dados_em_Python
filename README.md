@@ -9,7 +9,7 @@ https://www.youtube.com/c/AmandaLemette
 ## Aula 1: Leitura de Dados CSV
 
 Acesso ao vídeo da aula: https://youtu.be/r2moJkyQU1s
-- [Acesso ao jupyter notebook e à base de dados empregada](Leitura_e_Manipulacao_de_Dados_em_Python/Aula1)
+- [Acesso ao jupyter notebook e à base de dados empregada](#Aula1)
 
 ## Aula 2: Leitura de Dados xlsx, xls, .dat, .txt
 
