@@ -4,6 +4,10 @@ Esse repositório contém todos os códigos que desenvolvi durante o curso Leitu
 
 https://www.youtube.com/c/AmandaLemette
 
+# Para mais informações, acessar: 
+
+https://www.instagram.com/prof_amandalemette/
+
 # Aulas
 
 ## Aula 1: Leitura de Dados CSV
