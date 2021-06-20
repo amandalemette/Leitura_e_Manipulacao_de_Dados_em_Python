@@ -31,4 +31,11 @@ Acesso ao vídeo da aula: https://youtu.be/w0x5FMP2NTY
 
 - <h2 id="aula3"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula3">Material da Aula 3</a></h2>
 
+## Aula 4: loc e iloc, como usar? 
+
+Acesso ao vídeo da aula: https://youtu.be/HljNIV_tVY0
+
+- <h2 id="aula4"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula4">Material da Aula 4</a></h2>
+
+- A base de dados "Pizza consumption Dataset.xlsx" foi retirada de https://www.kaggle.com/imjp11/pizza-consumption-dataset: 
 
