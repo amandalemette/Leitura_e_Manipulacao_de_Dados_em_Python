@@ -39,3 +39,10 @@ Acesso ao vídeo da aula: https://youtu.be/HljNIV_tVY0
 
 - A base de dados "Pizza consumption Dataset.xlsx" foi retirada de https://www.kaggle.com/imjp11/pizza-consumption-dataset
 
+## Aula 5: Como lidar com NaN? Parte 1 
+
+Acesso ao vídeo da aula: https://youtu.be/iCjBGPx0UeA
+
+- <h2 id="aula5"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula5">Material da Aula 5</a></h2>
+
+- A base de dados "country_vaccinations.csv" foi retirada de https://www.kaggle.com/gpreda/covid-world-vaccination-progress
