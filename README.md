@@ -51,4 +51,4 @@ Acesso ao vídeo da aula: https://youtu.be/iCjBGPx0UeA
 
 Acesso ao vídeo da aula: https://youtu.be/iCjBGPx0UeA
 
-- <h2 id="aula6"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula5">Material da Aula 6</a></h2>
+- <h2 id="aula6"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula6">Material da Aula 6</a></h2>
