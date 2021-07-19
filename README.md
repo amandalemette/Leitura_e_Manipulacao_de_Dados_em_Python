@@ -59,3 +59,9 @@ Acesso ao vídeo da aula: https://youtu.be/NJyX0qVsODc
 
 - <h2 id="aula7"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula7">Material da Aula 7</a></h2>
 
+## Aula 8: Como filtrar dados no Python? Parte 2 
+
+Acesso ao vídeo da aula: https://youtu.be/Hbi_tp2INyQ
+
+- <h2 id="aula8"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula8">Material da Aula 8</a></h2>
+
