@@ -65,3 +65,8 @@ Acesso ao vídeo da aula: https://youtu.be/Hbi_tp2INyQ
 
 - <h2 id="aula8"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula8">Material da Aula 8</a></h2>
 
+## Aula 9: Gráfico de bolhas interativo no Python - com plotly.express
+
+Acesso ao vídeo da aula:https://youtu.be/c0zMZ--nfu8
+
+- <h2 id="aula9"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula9">Material da Aula 9</a></h2>
