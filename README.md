@@ -70,3 +70,10 @@ Acesso ao vídeo da aula: https://youtu.be/Hbi_tp2INyQ
 Acesso ao vídeo da aula:https://youtu.be/c0zMZ--nfu8
 
 - <h2 id="aula9"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula9">Material da Aula 9</a></h2>
+
+## Aula 10: Gráfico de bolhas interativo com dados de tempo - com Plotly.express 
+
+Acesso ao vídeo da aula:https://youtu.be/-W5Jf5RkdO8
+
+- <h2 id="aula10"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula_10">Material da Aula 10</a></h2>
+
