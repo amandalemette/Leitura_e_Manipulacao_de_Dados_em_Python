@@ -83,4 +83,9 @@ Acesso ao vídeo da aula: https://youtu.be/nOxgV1AqbjU
 
 - <h2 id="aula11"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula_11">Material da Aula 11</a></h2>
 
+## Aula 12: Como filtrar base de dados reais em Python usando múltiplas condições?
+
+Acesso ao vídeo da aula: https://youtu.be/q2miAzsZD3A
+
+- <h2 id="aula12"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula_12">Material da Aula 12</a></h2>
 
