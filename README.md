@@ -77,3 +77,10 @@ Acesso ao vídeo da aula:https://youtu.be/-W5Jf5RkdO8
 
 - <h2 id="aula10"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula_10">Material da Aula 10</a></h2>
 
+## Aula 11: Como filtrar dados no Python usando mais de uma condição?
+
+Acesso ao vídeo da aula: https://youtu.be/nOxgV1AqbjU
+
+- <h2 id="aula10"><a href="https://github.com/amandalemette/Leitura_e_Manipulacao_de_Dados_em_Python/tree/main/Aula_10">Material da Aula 10</a></h2>
+
+
